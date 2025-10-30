@@ -1,0 +1,13 @@
+# Python 虛擬環境
+.venv
+venv
+__pycache__
+*.pyc
+
+# 模型和數據快取
+model/*.pkl
+model/*.h5
+.ipynb_checkpoints/
+
+# Streamlit 快取和環境設定
+.streamlit/
